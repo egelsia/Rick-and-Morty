@@ -16,6 +16,6 @@ Here is how the app looks!
 Once you click to a character, you can see the details of it.
 
 ### Details Screen
-| White Theme                                                                                                                           | Black Theme                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| ![Details page white theme](https://raw.githubusercontent.com/egelsia/Rick-and-Morty/refs/heads/master/screenshots/details_white.png) | ![Details page black theme](https://raw.githubusercontent.com/egelsia/Rick-and-Morty/refs/heads/master/screenshots/details_black.png) |
+| White Theme                                                                                                                          | Black Theme                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| ![Details page white theme](https://raw.githubusercontent.com/egelsia/Rick-and-Morty/refs/heads/master/screenshots/detail_white.png) | ![Details page black theme](https://raw.githubusercontent.com/egelsia/Rick-and-Morty/refs/heads/master/screenshots/detail_black.png) |
